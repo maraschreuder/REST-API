@@ -1,4 +1,0 @@
-# REST-API
-==========
-
-Hello world!
